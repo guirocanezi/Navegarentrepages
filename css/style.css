@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    margin-top: 37px;
+    margin-left: 92px;
+
+}
+
+.menu-nav
+{
+  background-color: #fff;
+  font-family: Jaldi;
+
+}
+.container-principal{
+    background-color: #fff;
+    width: 60%;
+    height: 100vh;
+}
+.text{
+    color: #c1c242;
+    font-size: 48px ;
+
+    
+}
